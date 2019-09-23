@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AAC72CF72338A128001C2603 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AAFA15F9232BDED0005D0F22 /* SnapBugZ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnapBugZ.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAFA15FC232BDED0005D0F22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AAFA1600232BDED0005D0F22 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -39,6 +40,7 @@
 		AAFA15F0232BDED0005D0F22 = {
 			isa = PBXGroup;
 			children = (
+				AAC72CF72338A128001C2603 /* README.md */,
 				AAFA15FB232BDED0005D0F22 /* SnapBugZ */,
 				AAFA15FA232BDED0005D0F22 /* Products */,
 			);
